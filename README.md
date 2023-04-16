@@ -44,3 +44,34 @@ Explain how to run the automated tests for this system
 ## Deployment
 
 We uploaded half of the data to S3 socket at AWS, applied the model on it, and connected using Putty and SSH to the AWS server for model execution. The model achieved an accuracy of 97% and completed around 108 tasks for processing.
+
+## Additional Inquiries
+Please review the project report, which includes a detailed step-by-step guide with explanations of any encountered errors.
+
+## Project Contributors
+The following contributors have worked on this project:
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/ahmedlila">
+          <img src="https://avatars.githubusercontent.com/u/68854086?s=400&u=02282a03f96ef224311ba05d765ef70b6a3b6834&v=4" width="100px;" alt=""/>
+          <br />
+          <sub>
+            <b>Ahmed Lila</b>
+          </sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/IhabRagabMansour">
+          <img src="https://avatars.githubusercontent.com/u/68652696?v=4" width="100px;" alt=""/>
+          <br />
+          <sub>
+            <b>Ehab Mansour</b>
+          </sub>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
